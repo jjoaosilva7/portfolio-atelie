@@ -6,16 +6,27 @@ Landing page moderna e responsiva desenvolvida para apresentação dos produtos 
 
 ## 🚀 Tecnologias Utilizadas
 
-* **React**
-* **TypeScript**
-* **Tailwind CSS**
-* **shadcn/ui**
-* **Vite**
+* React
+* TypeScript
+* Tailwind CSS
+* shadcn/ui
+* Vite
 
 ---
 
 ## 📦 Como rodar o projeto localmente
 
 1. Clone o repositório:
-```bash
-git clone [https://github.com/jjoaosilva7/portfolio-atelie.git](https://github.com/jjoaosilva7/portfolio-atelie.git)
+git clone https://github.com/jjoaosilva7/portfolio-atelie.git
+
+2. Instale as dependências:
+npm install
+
+3. Inicie o servidor de desenvolvimento:
+npm run dev
+
+---
+
+## 👤 Autor
+
+Desenvolvido por João Vitor Barbosa Silva.
